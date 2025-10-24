@@ -1,6 +1,3 @@
-Вот готовый файл `README.md` в виде Markdown-кода (можно просто скопировать и вставить в проект):
-
-````markdown
 # 🖋️ Typewriter Effect
 
 ## 📋 Задание
@@ -11,7 +8,6 @@
 
 ```ts
 function typeWriter(delay: number, outputChar: OutputChar): WriteText;
-````
 
 Функция `typeWriter` принимает:
 
